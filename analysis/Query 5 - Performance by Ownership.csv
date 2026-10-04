@@ -1,0 +1,49 @@
+state,hospital_ownership,measure_id,start_date,end_date,hospitals_with_records,hospitals_with_comparable_scores,hospitals_without_comparable_scores,hospitals_above_state_benchmark,percent_above_state_benchmark
+AL,Government - Local,OP_18b,2024-10-01,2025-09-30,3,1,2,1,100
+AL,Voluntary non-profit - Church,OP_18b,2024-10-01,2025-09-30,3,3,0,3,100
+AL,Government - State,OP_18b,2024-10-01,2025-09-30,4,3,1,2,66.7
+AL,Government - Hospital District or Authority,OP_18b,2024-10-01,2025-09-30,31,30,1,15,50
+AL,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,16,15,1,7,46.7
+AL,Proprietary,OP_18b,2024-10-01,2025-09-30,27,24,3,10,41.7
+AL,Government - Federal,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+AL,Voluntary non-profit - Other,OP_18b,2024-10-01,2025-09-30,2,2,0,0,0
+LA,Voluntary non-profit - Church,OP_18b,2024-10-01,2025-09-30,1,1,0,1,100
+LA,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,37,33,4,24,72.7
+LA,Government - Hospital District or Authority,OP_18b,2024-10-01,2025-09-30,39,36,3,13,36.1
+LA,Proprietary,OP_18b,2024-10-01,2025-09-30,22,14,8,5,35.7
+LA,Department of Defense,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+LA,Government - State,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+LA,Voluntary non-profit - Other,OP_18b,2024-10-01,2025-09-30,3,3,0,0,0
+LA,Physician,OP_18b,2024-10-01,2025-09-30,8,0,8,0,
+MS,Proprietary,OP_18b,2024-10-01,2025-09-30,21,12,9,8,66.7
+MS,Voluntary non-profit - Other,OP_18b,2024-10-01,2025-09-30,5,5,0,3,60
+MS,Voluntary non-profit - Church,OP_18b,2024-10-01,2025-09-30,2,2,0,1,50
+MS,Government - Local,OP_18b,2024-10-01,2025-09-30,37,21,16,9,42.9
+MS,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,25,23,2,8,34.8
+MS,Government - State,OP_18b,2024-10-01,2025-09-30,5,3,2,1,33.3
+MS,Department of Defense,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+MS,Government - Federal,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+AL,Government - Local,OP_22,2024-01-01,2024-12-31,3,1,2,1,100
+AL,Government - Hospital District or Authority,OP_22,2024-01-01,2024-12-31,31,28,3,14,50
+AL,Voluntary non-profit - Church,OP_22,2024-01-01,2024-12-31,3,2,1,1,50
+AL,Voluntary non-profit - Other,OP_22,2024-01-01,2024-12-31,2,2,0,1,50
+AL,Proprietary,OP_22,2024-01-01,2024-12-31,27,24,3,6,25
+AL,Voluntary non-profit - Private,OP_22,2024-01-01,2024-12-31,16,12,4,3,25
+AL,Government - Federal,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+AL,Government - State,OP_22,2024-01-01,2024-12-31,4,3,1,0,0
+LA,Government - State,OP_22,2024-01-01,2024-12-31,1,1,0,1,100
+LA,Voluntary non-profit - Private,OP_22,2024-01-01,2024-12-31,37,32,5,7,21.9
+LA,Government - Hospital District or Authority,OP_22,2024-01-01,2024-12-31,39,37,2,4,10.8
+LA,Proprietary,OP_22,2024-01-01,2024-12-31,22,13,9,1,7.7
+LA,Department of Defense,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+LA,Voluntary non-profit - Church,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+LA,Voluntary non-profit - Other,OP_22,2024-01-01,2024-12-31,3,3,0,0,0
+LA,Physician,OP_22,2024-01-01,2024-12-31,8,0,8,0,
+MS,Government - State,OP_22,2024-01-01,2024-12-31,5,3,2,1,33.3
+MS,Government - Local,OP_22,2024-01-01,2024-12-31,37,19,18,6,31.6
+MS,Voluntary non-profit - Private,OP_22,2024-01-01,2024-12-31,25,23,2,3,13
+MS,Proprietary,OP_22,2024-01-01,2024-12-31,21,12,9,1,8.3
+MS,Department of Defense,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+MS,Government - Federal,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+MS,Voluntary non-profit - Church,OP_22,2024-01-01,2024-12-31,2,2,0,0,0
+MS,Voluntary non-profit - Other,OP_22,2024-01-01,2024-12-31,5,5,0,0,0

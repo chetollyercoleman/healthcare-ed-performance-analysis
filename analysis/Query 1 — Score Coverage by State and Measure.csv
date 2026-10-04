@@ -1,0 +1,7 @@
+state,measure_id,start_date,end_date,hospitals_with_records,hospitals_with_available_scores,hospitals_with_unavailable_scores,percent_with_available_scores
+AL,OP_18b,2024-10-01,2025-09-30,87,79,8,90.8
+LA,OP_18b,2024-10-01,2025-09-30,112,89,23,79.5
+MS,OP_18b,2024-10-01,2025-09-30,97,68,29,70.1
+AL,OP_22,2024-01-01,2024-12-31,87,73,14,83.9
+LA,OP_22,2024-01-01,2024-12-31,112,88,24,78.6
+MS,OP_22,2024-01-01,2024-12-31,97,66,31,68

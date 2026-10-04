@@ -1,0 +1,27 @@
+state,hospital_type,measure_id,start_date,end_date,hospitals_with_records,hospitals_with_comparable_scores,hospitals_without_comparable_scores,hospitals_above_state_benchmark,percent_above_state_benchmark
+AL,Acute Care Hospitals,OP_18b,2024-10-01,2025-09-30,73,72,1,37,51.4
+AL,Critical Access Hospitals,OP_18b,2024-10-01,2025-09-30,9,7,2,1,14.3
+AL,Childrens,OP_18b,2024-10-01,2025-09-30,2,0,2,0,
+AL,Rural Emergency Hospital,OP_18b,2024-10-01,2025-09-30,3,0,3,0,
+LA,Acute Care Hospitals,OP_18b,2024-10-01,2025-09-30,82,65,17,40,61.5
+LA,Critical Access Hospitals,OP_18b,2024-10-01,2025-09-30,27,23,4,3,13
+LA,Acute Care - Department of Defense,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+LA,Childrens,OP_18b,2024-10-01,2025-09-30,1,0,1,0,
+LA,Rural Emergency Hospital,OP_18b,2024-10-01,2025-09-30,1,0,1,0,
+MS,Acute Care Hospitals,OP_18b,2024-10-01,2025-09-30,59,48,11,30,62.5
+MS,Acute Care - Department of Defense,OP_18b,2024-10-01,2025-09-30,1,1,0,0,0
+MS,Critical Access Hospitals,OP_18b,2024-10-01,2025-09-30,30,19,11,0,0
+MS,Rural Emergency Hospital,OP_18b,2024-10-01,2025-09-30,7,0,7,0,
+AL,Acute Care Hospitals,OP_22,2024-01-01,2024-12-31,73,68,5,25,36.8
+AL,Critical Access Hospitals,OP_22,2024-01-01,2024-12-31,9,5,4,1,20
+AL,Childrens,OP_22,2024-01-01,2024-12-31,2,0,2,0,
+AL,Rural Emergency Hospital,OP_22,2024-01-01,2024-12-31,3,0,3,0,
+LA,Acute Care Hospitals,OP_22,2024-01-01,2024-12-31,82,64,18,12,18.8
+LA,Critical Access Hospitals,OP_22,2024-01-01,2024-12-31,27,23,4,1,4.3
+LA,Acute Care - Department of Defense,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+LA,Childrens,OP_22,2024-01-01,2024-12-31,1,0,1,0,
+LA,Rural Emergency Hospital,OP_22,2024-01-01,2024-12-31,1,0,1,0,
+MS,Acute Care Hospitals,OP_22,2024-01-01,2024-12-31,59,49,10,11,22.4
+MS,Acute Care - Department of Defense,OP_22,2024-01-01,2024-12-31,1,1,0,0,0
+MS,Critical Access Hospitals,OP_22,2024-01-01,2024-12-31,30,16,14,0,0
+MS,Rural Emergency Hospital,OP_22,2024-01-01,2024-12-31,7,0,7,0,

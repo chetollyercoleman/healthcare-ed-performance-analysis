@@ -1,0 +1,21 @@
+facility_id,facility_name,state,county_parish,hospital_type,hospital_ownership,measure_id,start_date,end_date,hospital_score,state_benchmark,difference_from_state,difference_unit,review_rank
+190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,LA,ORLEANS,Acute Care Hospitals,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,327,129,198,Minutes,1
+250082,DELTA HEALTH SYSTEM - THE MEDICAL CENTER,MS,WASHINGTON,Acute Care Hospitals,Government - Local,OP_18b,2024-10-01,2025-09-30,270,129,141,Minutes,2
+250141,BAPTIST MEMORIAL HOSPITAL DESOTO,MS,DE SOTO,Acute Care Hospitals,Proprietary,OP_18b,2024-10-01,2025-09-30,259,129,130,Minutes,3
+250048,ST DOMINIC-JACKSON MEMORIAL HOSPITAL,MS,HINDS,Acute Care Hospitals,Voluntary non-profit - Church,OP_18b,2024-10-01,2025-09-30,250,129,121,Minutes,4
+190098,OCHSNER LSU HEALTH SHREVEPORT,LA,CADDO,Acute Care Hospitals,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,247,129,118,Minutes,5
+190125,FMOL HEALTH ST FRANCIS,LA,OUACHITA,Acute Care Hospitals,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,226,129,97,Minutes,6
+010078,NORTHEAST ALABAMA REGIONAL MEDICAL CENTER,AL,CALHOUN,Acute Care Hospitals,Government - Local,OP_18b,2024-10-01,2025-09-30,244,149,95,Minutes,7
+250078,FORREST GENERAL HOSPITAL,MS,FORREST,Acute Care Hospitals,Government - Local,OP_18b,2024-10-01,2025-09-30,224,129,95,Minutes,8
+010056,ST VINCENT'S BIRMINGHAM,AL,JEFFERSON,Acute Care Hospitals,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,243,149,94,Minutes,9
+250167,METHODIST HEALTHCARE - OLIVE BRANCH HOSPITAL,MS,DE SOTO,Acute Care Hospitals,Voluntary non-profit - Private,OP_18b,2024-10-01,2025-09-30,222,129,93,Minutes,10
+250095,SOUTH SUNFLOWER COUNTY HOSPITAL,MS,SUNFLOWER,Acute Care Hospitals,Government - Local,OP_22,2024-01-01,2024-12-31,14,3,11,Percentage points,1
+250001,UNIVERSITY OF MISSISSIPPI MED CENTER,MS,HINDS,Acute Care Hospitals,Government - State,OP_22,2024-01-01,2024-12-31,10,3,7,Percentage points,2
+011307,MEDICAL CENTER BARBOUR,AL,BARBOUR,Critical Access Hospitals,Government - Hospital District or Authority,OP_22,2024-01-01,2024-12-31,8,2,6,Percentage points,3
+250040,SINGING RIVER HEALTH SYSTEM,MS,JACKSON,Acute Care Hospitals,Government - Local,OP_22,2024-01-01,2024-12-31,9,3,6,Percentage points,4
+250099,GREENWOOD LEFLORE HOSPITAL,MS,LEFLORE,Acute Care Hospitals,Government - Local,OP_22,2024-01-01,2024-12-31,9,3,6,Percentage points,5
+010090,"USA HEALTH HCA PROVIDENCE HOSPITAL, LLC",AL,MOBILE,Acute Care Hospitals,Voluntary non-profit - Church,OP_22,2024-01-01,2024-12-31,6,2,4,Percentage points,6
+010108,PRATTVILLE BAPTIST HOSPITAL,AL,AUTAUGA,Acute Care Hospitals,Government - Hospital District or Authority,OP_22,2024-01-01,2024-12-31,6,2,4,Percentage points,7
+010128,JACKSON MEDICAL CENTER,AL,CLARKE,Acute Care Hospitals,Proprietary,OP_22,2024-01-01,2024-12-31,6,2,4,Percentage points,8
+010149,BAPTIST MEDICAL CENTER EAST,AL,MONTGOMERY,Acute Care Hospitals,Government - Hospital District or Authority,OP_22,2024-01-01,2024-12-31,6,2,4,Percentage points,9
+190011,OCHSNER LSU HEALTH MONROE,LA,OUACHITA,Acute Care Hospitals,Voluntary non-profit - Private,OP_22,2024-01-01,2024-12-31,6,2,4,Percentage points,10
